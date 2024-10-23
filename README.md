@@ -1,4 +1,4 @@
-# **OOP and SOLID Principles: Shape Calculator**
+# **OOP and SOLID Principles: Shape Metrics**
 
 ## **Project Overview**
 This project demonstrates the core concepts of **Object-Oriented Programming (OOP)** and **SOLID principles**. It calculates the **area** and **perimeter** for shapes like Circles and Rectangles, showcasing clean, scalable design.
